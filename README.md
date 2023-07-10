@@ -21,9 +21,8 @@ To run the application locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![image](https://github.com/suman1406/Two_Stacks_Flutter_App/assets/119001618/2aeb0c8f-357f-4842-85ec-ef2152e5d0c9)
+
 
 ## Contributing
 
